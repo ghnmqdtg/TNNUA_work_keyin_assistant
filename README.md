@@ -44,7 +44,7 @@
 
 7. 安裝 Chrome Driver
     
-    請點選此連結，並按照示意圖點選下載，下載路徑選擇 `C:\Users\你的使用者名稱` 。
+    請點選此[連結](https://chromedriver.chromium.org/)，並按照示意圖點選下載，下載路徑選擇 `C:\Users\你的使用者名稱` 。
 
     ![](https://i.imgur.com/WO9Kh4j.png)
 
